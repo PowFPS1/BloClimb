@@ -30,3 +30,6 @@ If you want to tweak something locally:
 Hope you like it! If you find any bugs, feel free to let us know.
 
 — The BloClimb Team
+
+
+(BloClimb is no longer active)
