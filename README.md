@@ -20,7 +20,6 @@ Nothing too crazy here.
 If you want to tweak something locally:
 1. Clone the repo.
 2. Open `index.html` in your browser.
-3. That's it! No complex build steps required.
 
 ## Links
 - [Play BloClimb on Roblox](https://www.roblox.com/games/17784344028/NEW-BloClimb-Bouldering-V1)
