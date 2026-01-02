@@ -6,7 +6,7 @@ This is the central hub for our Roblox bouldering community. It connects players
 
 ## What's Inside?
 
-We recently gave the site a big improvement! 🎨
+We recently gave the site a big improvement!
 - **Modern Look:** Dark mode, neon accents, and a much better layout.
 - **Speedy:** It's static HTML/CSS so it loads super fast.
 - **Mobile Friendly:** Looks great on your phone or your PC.
