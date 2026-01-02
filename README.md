@@ -11,11 +11,6 @@ We recently gave the site a big improvement! 🎨
 - **Speedy:** It's static HTML/CSS so it loads super fast.
 - **Mobile Friendly:** Looks great on your phone or your PC.
 
-## Tech Stack
-Nothing too crazy here.
-- **HTML5**
-- **CSS3**
-
 ## Development
 If you want to tweak something locally:
 1. Clone the repo.
