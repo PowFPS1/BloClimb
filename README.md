@@ -1,8 +1,6 @@
 # BloClimb Website 🧗‍♂️
 
-Hey! Welcome to the source code for the official **BloClimb** website. 
-
-This is the central hub for our Roblox bouldering community. It connects players to everything they need—whether that's jumping straight into the game, applying for a staff position, checking out the training schedule, or buying a rank.
+Hey!
 
 ## What's Inside?
 
